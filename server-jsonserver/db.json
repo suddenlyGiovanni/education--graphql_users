@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "firstName": "anni",
+      "age": 31,
+      "companyId": "0"
+    },
+    {
+      "id": "1",
+      "firstName": "Theresia",
+      "age": 78,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Jamarcus",
+      "age": 34,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Layla",
+      "age": 54,
+      "companyId": "0"
+    },
+    {
+      "id": "4",
+      "firstName": "Nichole",
+      "age": 64,
+      "companyId": "0"
+    },
+    {
+      "id": "5",
+      "firstName": "Sage",
+      "age": 84,
+      "companyId": "3"
+    },
+    {
+      "id": "6",
+      "firstName": "Fae",
+      "age": 87,
+      "companyId": "1"
+    },
+    {
+      "id": "7",
+      "firstName": "Vicente",
+      "age": 39,
+      "companyId": "4"
+    },
+    {
+      "id": "9",
+      "firstName": "Jay",
+      "age": 66,
+      "companyId": "0"
+    }
+  ],
+  "companies": [
+    {
+      "id": "0",
+      "name": "Rippin, Goyette and Hirthe",
+      "description": "zero tolerance"
+    },
+    {
+      "id": "1",
+      "name": "Bartell, Ankunding and Glover",
+      "description": "24/7"
+    },
+    {
+      "id": "2",
+      "name": "Anderson - Batz",
+      "description": "regional"
+    },
+    {
+      "id": "3",
+      "name": "Muller - Kunze",
+      "description": "cohesive"
+    },
+    {
+      "id": "4",
+      "name": "Keebler and Sons",
+      "description": "multi-state"
+    }
+  ]
+}
